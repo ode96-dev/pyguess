@@ -1,3 +1,3 @@
-# PYTHON GUESS - 2
+# PYTHON BASICS - 2
 
 ## Guessing Gaming
